@@ -1,0 +1,29 @@
+Design lay out of the Application  :
+-Label 
+-Choice box
+-Textfeild 
+-Button
+
+Create controller to write logical code .
+
+The controller implements the initializable interface.
+ 
+Choice box and button :Handle their events.
+Set margins for the controls .
+ 
+
+
+We add controller to  distinguish layout from logical code .
+
+Have to link the controller class with the layout.
+ 	
+
+Alt + command +L : format's code in 2 lines .(in MAC )
+
+Need to provide ID's to all the controllers in pane in order to be able to control them .
+
+
+IN case of choice box we have listener .
+
+Integrate dialogue to convert click .
+Exception handling for invalid input .
